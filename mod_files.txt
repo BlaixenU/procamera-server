@@ -1,1 +1,4 @@
-
+add mod.ini
+add data000/CameraFactorEnemy.bxm
+add data000/CameraFactorGeneral.bxm
+add data000/CameraFactorStandard.bxm
